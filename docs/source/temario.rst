@@ -1,6 +1,8 @@
 Temario
 =======
 
+.. toctree::
+
 Introduction 1
 1. Variables, Data Types and Declaration Statements 6
 1.1 Introduction 6
