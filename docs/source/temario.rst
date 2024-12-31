@@ -4,9 +4,6 @@ Temario1
 Numbered List
 -------------
 
-#. One,
-##. Two.
-#. Three with long text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #.   Introduction 1
 #.  1. Variables, Data Types and Declaration Statements 6
 #. 1.1 Introduction 6
@@ -16,56 +13,42 @@ Numbered List
 #. 1.5 The pointer data type 15
 #. 1.6 Arrays 19
 #. 1.7 Character strings 22
-1.8 Data structures 24
-1.9 Pointers to data structures 28
-Chapter review 30
-2. Introduction to Executable Statements 31
-2.1 Introduction 31
-2.2 Arithmetic operators 32
-2.3 Relational and logical operators 36
-2.4 Identifying operators 39
-2.5 Miscellaneous operators 42
-2.6 Operator precedence 45
-Chapter review 47
-3. Introduction to Functions 49
-3.1 Introduction 49
-3.2 Essential statements in any function 51
-3.3 The interface between calling and called functions 52
-3.4 Non-empty argument lists and return statements 54
-
-vi C programming tor scientists and engineers
-3.5 Using functions to read and write data 62
-3.6 A program to calculate the area of a triangle 67
-Chapter review 71
-4. Decisions and Loops 73
-4.1 Introduction 73
-4.2 The if-else construct 74
-4.3 Compound statements 75
-4.4 Nested if-else statements 76
-4.5 The switch construct 78
-4.6 The for loop 81
-4.7 The while loop 86
-4.8 The do-while loop 90
-Chapter review 91
-5. Files and Formatting 92
-5.1 Introduction 92
-5.2 Reading and writing 92
-5.3 Formatted output 100
-5.4 Line output 102
-5.5 Line input 104
-Chapter review 112
-6. Dynamic Memory Management and Linked Lists 114
-6.1 Introduction 114
-6.2 Essential facilities for dynamic memory
-management 115
-6.3 Simple applications of dynamic memory
-management 117
-6.4 Linked lists 125
-Chapter review 131
-Appendix: Typical Examination Questions 132
-Background and Rationale of the Series 140
-Index
-
+#. 1.8 Data structures 24
+#. 1.9 Pointers to data structures 28
+#. 2. Introduction to Executable Statements 31
+#. 2.1 Introduction 31
+#. 2.2 Arithmetic operators 32
+#. 2.3 Relational and logical operators 36
+#. 2.4 Identifying operators 39
+#. 2.5 Miscellaneous operators 42
+#. 2.6 Operator precedence 45
+#. 3. Introduction to Functions 49
+#. 3.1 Introduction 49
+#. 3.2 Essential statements in any function 51
+#. 3.3 The interface between calling and called functions 52
+#. 3.4 Non-empty argument lists and return statements 54
+#. 3.5 Using functions to read and write data 62
+#. 3.6 A program to calculate the area of a triangle 67
+#. 4. Decisions and Loops 73
+#. 4.1 Introduction 73
+#. 4.2 The if-else construct 74
+#. 4.3 Compound statements 75
+#. 4.4 Nested if-else statements 76
+#. 4.5 The switch construct 78
+#. 4.6 The for loop 81
+#. 4.7 The while loop 86
+#. 4.8 The do-while loop 90
+#. 5. Files and Formatting 92
+#. 5.1 Introduction 92
+#. 5.2 Reading and writing 92
+#. 5.3 Formatted output 100
+#. 5.4 Line output 102
+#. 5.5 Line input 104
+#. 6. Dynamic Memory Management and Linked Lists 114
+#. 6.1 Introduction 114
+#. 6.2 Essential facilities for dynamic memory management 115
+#. 6.3 Simple applications of dynamic memory management 117
+#. 6.4 Linked lists 125
 
 Index
 address 6,9
