@@ -1,4 +1,4 @@
-Temario2
+Temario1
 =======
 
 Numbered List
@@ -7,24 +7,15 @@ Numbered List
 #. One,
 #. Two.
 #. Three with long text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-   Sed feugiat sagittis neque quis eleifend. Duis rutrum lectus sit amet mattis sus
-
-
-.. toctree::
-   :maxdepth: 2
-
-   Introduction 1
-
-   1. Variables, Data Types and Declaration Statements 6
-
-1.1 Introduction 6
-1.2 The character data type 7
-1.3 The integer data type 10
-1.4 The real data type 13
-1.5 The pointer data type 15
-1.6 Arrays 19
-1.7 Character strings 22
+#.   Introduction 1
+#.  1. Variables, Data Types and Declaration Statements 6
+#. 1.1 Introduction 6
+#. 1.2 The character data type 7
+#. 1.3 The integer data type 10
+#. 1.4 The real data type 13
+#. 1.5 The pointer data type 15
+#. 1.6 Arrays 19
+#. 1.7 Character strings 22
 1.8 Data structures 24
 1.9 Pointers to data structures 28
 Chapter review 30
