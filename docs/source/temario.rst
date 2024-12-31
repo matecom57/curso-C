@@ -5,7 +5,7 @@ Numbered List
 -------------
 
 #. One,
-#. Two.
+   #. Two.
 #. Three with long text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #.   Introduction 1
 #.  1. Variables, Data Types and Declaration Statements 6
