@@ -3,8 +3,8 @@ Temario2
 
 .. toctree::
 
-Introduction 1
-1. Variables, Data Types and Declaration Statements 6
+   Introduction 1
+   1. Variables, Data Types and Declaration Statements 6
 1.1 Introduction 6
 1.2 The character data type 7
 1.3 The integer data type 10
